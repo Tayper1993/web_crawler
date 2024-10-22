@@ -1,2 +1,2 @@
 # web_crawler
-Web crawker for python
+Web crawler for python
